@@ -22,4 +22,4 @@ The unveiling of Dark
 - [Distributed Systems with Paul Biggar of Dark](https://www.heavybit.com/library/podcasts/o11ycast/ep-3-distributed-systems-with-paul-biggar-of-dark/)
 
 ## Q/A
-- [YC: How Dark deploys code in 50ms](https://news.ycombinator.com/item?id=20394166)
+- [HN: How Dark deploys code in 50ms](https://news.ycombinator.com/item?id=20394166)
